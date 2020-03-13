@@ -1,0 +1,82 @@
+[
+	{
+		"id": 1,
+        "first": "SAMMY",
+        "last": "JORDAN",
+        "position": "Director",
+        "email": "SAMMY.JORDAN@example.com",
+        "cell": "(122)-524-3330"
+	},
+	{
+		"id": 2,
+        "first": "DANNY",
+        "last": "DAVITO",
+        "position": "Product Owner",
+        "email": "DANNY.DAVITO@example.com",
+        "cell": "(633)-234-9876"
+	},
+    {
+		"id": 3,
+        "first": "SETH",
+        "last": "WARD",
+        "position": "RTE",
+        "email": "SETH.WARD@example.com",
+        "cell": "(983)-233-2332"
+	},
+	{
+		"id": 4,
+        "first": "JAMES",
+        "last": "YOUNG",
+        "position": "Manager",
+        "email": "JAMES.YOUNG@example.com",
+        "cell": "(348)-239-1384"
+	},
+    {
+		"id": 5,
+        "first": "AVERY",
+        "last": "JOHNSON",
+        "position": "Director of Marketing",
+        "email": "AVERY.JOHNSON@example.com",
+        "cell": "(239)-284-5584"
+	},
+    {
+		"id": 6,
+        "first": "SAHRA",
+        "last": "JOHNSON",
+        "position": "Marketing Manager",
+        "email": "SAHRA.JOHNSON@example.com",
+        "cell": "(384)-455-4857"
+	},
+    {
+		"id": 7,
+        "first": "LARRY",
+        "last": "WHITE",
+        "position": "Marketing Assistant",
+        "email": "LARRY.WHITE@example.com",
+        "cell": "(348)-239-5855"
+	},
+    {
+		"id": 8,
+        "first": "MARY",
+        "last": "SUNDDER",
+        "position": "Office Manager",
+        "email": "MARY.SUNDDER@example.com",
+        "cell": "(384)-448-2384"
+	},
+    {
+		"id": 9,
+        "first": "BEVERLY",
+        "last": "HILLS",
+        "position": "CEO",
+        "email": "BEVERLY.HILLS@example.com",
+        "cell": "(612)-935-3678"
+	},
+    {
+		"id": 10,
+        "first": "NANCY",
+        "last": "MONDER",
+        "position": "CFO",
+        "email": "NANCY.MONDER@example.com",
+        "cell": "(234)-323-7768"
+	}
+]
